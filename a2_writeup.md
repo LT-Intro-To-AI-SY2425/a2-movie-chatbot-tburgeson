@@ -12,9 +12,7 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
-
+The match function was difficult because of all of the different possible cases for resolving all the asserts. During troubleshooting, sometimes it was difficult to pinpoint what was causing the issue. 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
-
+The match function could be used to extract data from a movie database through searching for certain aspects of a title, or certain words, instead of having to include the entire phrase or name. 
